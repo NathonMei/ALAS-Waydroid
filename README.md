@@ -2,7 +2,7 @@
 
 ALAS-Waydroid 是 AzurLaneAutoScript 项目的一个自定义分支，包含了对原始 ALAS 项目的修改，以确保 Linux 系统下与 Waydroid 模拟环境的兼容性。
 
-**荣耀归于[LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)**
+**荣耀归于 [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)**
 
 #
 
