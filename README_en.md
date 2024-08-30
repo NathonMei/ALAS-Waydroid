@@ -4,6 +4,32 @@ ALAS-Waydroid is a customized fork of the AzurLaneAutoScript project, which incl
 
 **All hail to [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)**
 
+##
+Terminal Deploy Command:
+```
+git clone -b master --single-branch --depth 1 https://github.com/NathonMei/ALAS-Waydroid.git ./AzurLaneAutoScript/
+```
+```
+cd ./AzurLaneAutoScript
+```
+```
+python3.8 -m venv alas_venv
+```
+```
+source alas_venv/bin/activate
+```
+```
+pip install --upgrade pip
+```
+```
+pip install -r deploy/headless/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+```
+cp config/deploy.template-linux-waydroid.yaml config/deploy.yaml
+```
+```
+python gui.py
+```
 #
 
 >The following is the original repository README
