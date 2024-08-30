@@ -156,7 +156,7 @@ class Adb(Connection):
     @retry
     @Config.when(DEVICE_OVER_HTTP=False)
     def screenshot_adb(self):
-        data = self.adb_shell(['screencap', '-p'], stream=True)
+        data = self.adb_shell(['screencap', '-p', '2>/dev/null'], stream=True)
         if len(data) < 500:
             logger.warning(f'Unexpected screenshot: {data}')
 
