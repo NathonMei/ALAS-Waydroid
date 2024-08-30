@@ -1,6 +1,16 @@
+# ALAS-Waydroid
+
+ALAS-Waydroid is a customized fork of the AzurLaneAutoScript project, which includes modifications to the original ALAS project to ensure compatibility with the Waydroid emulation environment on Linux systems.
+
+**All hail to [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)**
+
+#
+
+>The following is the original repository README
+
 **| English | [简体中文](README.md) | [日本語](README_jp.md) |**
 
-# AzurLaneAutoScript
+## AzurLaneAutoScript
 
 Azur Lane bot with GUI (Supports CN, EN, JP, TW, able to support other servers), designed for 24/7 running scenes, can take over almost all Azur Lane gameplay. Azur Lane, as a mobile game, has entered the late stage of its life cycle. During the period from now to the server down, please reduce the time spent on the Azur Lane and leave everything to Alas.
 
