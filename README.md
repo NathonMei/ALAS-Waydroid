@@ -1,6 +1,16 @@
+# ALAS-Waydroid
+
+ALAS-Waydroid 是 AzurLaneAutoScript 项目的一个自定义分支，包含了对原始 ALAS 项目的修改，以确保 Linux 系统下与 Waydroid 模拟环境的兼容性。
+
+**荣耀归于[LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)**
+
+#
+
+>下文为原仓库Readme
+
 **| [English](README_en.md) | 简体中文 | [日本語](README_jp.md) |**
 
-# AzurLaneAutoScript
+## AzurLaneAutoScript
 
 #### Discord [![](https://img.shields.io/discord/720789890354249748?logo=discord&logoColor=ffffff&color=4e4c97)](https://discord.gg/AQN6GeJ) QQ群  ![](https://img.shields.io/badge/QQ%20Group-1087735381-4e4c97)
 Azur Lane bot with GUI (Supports CN, EN, JP, TW, able to support other servers), designed for 24/7 running scenes, can take over almost all Azur Lane gameplay. Azur Lane, as a mobile game, has entered the late stage of its life cycle. During the period from now to the server down, please reduce the time spent on the Azur Lane and leave everything to Alas.
