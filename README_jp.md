@@ -1,3 +1,5 @@
+**| [英語](README_en.md) | [中国語](README.md) | 日本語 |**
+
 # ALAS-Waydroid
 
 ALAS-Waydroid は AzurLaneAutoScript プロジェクトのカスタムフォークで、Linux システム下で Waydroid エミュレーション環境との互換性を確保するために、元の ALAS プロジェクトに対していくつかの変更が加えられています。
@@ -22,7 +24,7 @@ source alas_venv/bin/activate
 pip install --upgrade pip
 ```
 ```
-pip install -r deploy/headless/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r deploy/headless/requirements.txt
 ```
 ```
 cp config/deploy.template-linux-waydroid.yaml config/deploy.yaml
@@ -33,8 +35,6 @@ python gui.py
 #
 
 >以下は元のリポジトリの README です
-
-**| [英語](README_en.md) | [中国語](README.md) | 日本語 |**
 
 ## AzurLaneAutoScript
 
