@@ -1,4 +1,4 @@
-**| [英語](README_en.md) | [中国語](README.md) | 日本語 |**
+**| [English](README_en.md) | [简体中文](README.md) | 日本語 |**
 
 # ALAS-Waydroid
 
