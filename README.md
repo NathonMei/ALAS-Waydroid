@@ -1,3 +1,5 @@
+**| [English](README_en.md) | 简体中文 | [日本語](README_jp.md) |**
+
 # ALAS-Waydroid
 
 ALAS-Waydroid 是 AzurLaneAutoScript 项目的一个自定义分支，包含了对原始 ALAS 项目的修改，以确保 Linux 系统下与 Waydroid 模拟环境的兼容性。
@@ -19,7 +21,7 @@ python3.8 -m venv alas_venv
 source alas_venv/bin/activate
 ```
 ```
-pip install --upgrade pip
+pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 ```
 pip install -r deploy/headless/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
@@ -33,8 +35,6 @@ python gui.py
 #
 
 >下文为原仓库Readme
-
-**| [English](README_en.md) | 简体中文 | [日本語](README_jp.md) |**
 
 ## AzurLaneAutoScript
 
