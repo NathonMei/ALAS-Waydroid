@@ -27,6 +27,9 @@ pip install --upgrade pip
 pip install -r deploy/headless/requirements.txt
 ```
 ```
+pip install --upgrade mxnet
+```
+```
 cp config/deploy.template-linux-waydroid.yaml config/deploy.yaml
 ```
 ```

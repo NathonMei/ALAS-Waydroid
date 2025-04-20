@@ -27,6 +27,9 @@ pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install -r deploy/headless/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 ```
+pip install --upgrade mxnet -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+```
 cp config/deploy.template-linux-waydroid.yaml config/deploy.yaml
 ```
 ```
